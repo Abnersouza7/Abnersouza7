@@ -1,5 +1,14 @@
-## Hi there 👋
+# Abner Gabriel de Souza 🇧🇷
 
+** `Firmware and AI developer`**
+
+Hi, I'm **Abner**, an undergraduate student in **Mechatronics Engineering**.  
+I work as a **Technical support/firmware developer** and have an interest in:  
+- **Artificial Intelligence** (AI)  
+- **Model Checking**  
+- **Real-Time Operating Systems** (RTOS)  
+
+Feel free to explore my projects and connect with me! 🚀
 <!--
 **Abnersouza7/Abnersouza7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
