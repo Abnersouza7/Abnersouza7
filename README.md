@@ -7,6 +7,7 @@ I work as a **Technical support/firmware developer** and have an interest in:
 - **Artificial Intelligence** (AI)  
 - **Model Checking**  
 - **Real-Time Operating Systems** (RTOS)  
+- **Microcontroller programming**
 
 Feel free to explore my projects and connect with me! 🚀
 <!--
