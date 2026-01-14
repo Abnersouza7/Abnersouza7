@@ -57,8 +57,8 @@ I specialize in bridging the gap between hardware and software, currently workin
 
 ### ⚡ **Fun Facts**
 
-* 🐧 **Daily Driver:** I run **Arch Linux** with **Hyprland**.
-* 🗣️ **Languages:** Portuguese (Native), English (C2 - Proficient), Italian (A1), and learning German.
+* 🐧 **Daily Driver:** I run **Arch Linux** with **Hyprland** (BTW).
+* * 🗣️ **Languages:** Portuguese (Native), English (C2 - Proficient), Italian (A1), and learning German.
 
 ---
 
