@@ -25,8 +25,8 @@ I specialize in bridging the gap between hardware and software, currently workin
 ![Zephyr](https://img.shields.io/badge/Zephyr_RTOS-3F3F3F?style=for-the-badge&logo=zephyr&logoColor=white) ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-3F3F3F?style=for-the-badge&logo=freertos&logoColor=white) ![PlatformIO](https://img.shields.io/badge/PlatformIO-orange?style=for-the-badge&logo=platformio&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 **🦾 Hardware Architectures**
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) *(N6, H5, F4 Series)*
-![Espressif](https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white) *(ESP32-C6, ESP8266)*
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) 
+![Espressif](https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Nvidia](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 **📡 Protocols & Interfaces**
