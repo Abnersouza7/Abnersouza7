@@ -45,7 +45,7 @@ I specialize in bridging the gap between hardware and software, currently workin
 
 * **Firmware Engineer** | [Binho](https://binho.io) (Nov 2025 - Present)
     * Remote firmware design, debugging, and testing for US-based hardware.
-* **Technical Support Analyst** | Evolution Virtual (Sep 2024 - Present)
+* **Technical Support Analyst** | [Evolution Virtual](https://lightitwithvibrant.com/)(Sep 2024 - Present)
     * Supporting smart automation and embedded systems for high-end clients in Chicago.
 * **Engineering Intern** | Sensorville IIoT (Feb 2024 - Sep 2024)
     * Worked on industrial automation, system startup, and deployments.
