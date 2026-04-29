@@ -62,20 +62,10 @@ I specialize in bridging the gap between hardware and software, currently workin
 
 ---
 
-### 📊 **Contribution Activity**
+### 📊 **GitHub Stats**
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abnersouza7/Abnersouza7/main/profile-3d-contrib/profile-night-green.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abnersouza7/Abnersouza7/main/profile-3d-contrib/profile-green-animate.svg" />
-    <img src="https://raw.githubusercontent.com/Abnersouza7/Abnersouza7/main/profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" />
-  </picture>
-</p>
-
-### 🌐 **Languages**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abnersouza7/Abnersouza7/main/github-metrics.svg" alt="GitHub language metrics" />
+  <img src="https://raw.githubusercontent.com/Abnersouza7/Abnersouza7/main/github-metrics.svg" alt="GitHub metrics" />
 </p>
 
 ---
