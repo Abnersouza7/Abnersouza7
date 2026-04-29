@@ -62,6 +62,14 @@ I specialize in bridging the gap between hardware and software, currently workin
 
 ---
 
+### 📊 **Contribution Activity**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abnersouza7/Abnersouza7/main/profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" />
+</p>
+
+---
+
 <div align="center">
   <a href="https://www.linkedin.com/in/abnersouza7" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
