@@ -2,8 +2,6 @@
 
 **Mechatronics Engineering** student at **UFSC** (final year, July 2026) and **Firmware Engineer @ [Binho](https://binho.io)**. I work across the hardware/software boundary — bare-metal, RTOS, and Linux embedded systems — with a research interest in formal verification of real-time scheduling.
 
-> 🚀 **Open to firmware / embedded systems opportunities.** Reach out for collaborations, RTOS / baremetal discussions, or open-source contributions.
-
 ---
 
 ## 🔭 Current Focus
